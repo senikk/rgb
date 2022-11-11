@@ -13,8 +13,8 @@
         <SkipToContent />
     </div>
     <HeaderNav>
-        <HeaderNavItem href="/" text="Veksle" />
-        <HeaderNavItem href="/timer" text="Timer" />
+        <HeaderNavItem href="/" text="Din fane" />
+        <HeaderNavItem href="/eksempel" text="Eksempel" />
     </HeaderNav>
 </Header>
 
